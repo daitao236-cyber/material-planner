@@ -1,0 +1,2 @@
+# Streamlit Cloud 需要的系统依赖
+# 每行一个apt包名
