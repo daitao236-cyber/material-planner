@@ -1,26 +1,11 @@
-# 游戏素材规划工具 - Streamlit Cloud 部署版
-# Delta Force Material Planner Tool
-
-# ============ 核心框架 ============
 streamlit==1.38.0
-
-# ============ 数据处理 ============
-pandas>=2.1.0
-numpy>=1.26.0
-
-# ============ AI/机器学习 ============
-openai>=1.10.0
-requests>=2.31.0
-httpx>=0.26.0
-
-# ============ 文档生成 ============
-python-docx>=1.1.0
-
-# ============ 配置管理 ============
-pydantic>=2.5.0
-pydantic-settings>=2.1.0
-python-dotenv>=1.0.0
-
-# ============ 工具库 ============
-python-dateutil>=2.8.0
-openpyxl>=3.1.0
+pandas==2.2.2
+numpy==1.26.4
+openai==1.40.0
+requests==2.32.3
+httpx==0.27.0
+python-docx==1.1.2
+pydantic==2.7.0
+pydantic-settings==2.3.0
+python-dotenv==1.0.0
+openpyxl==3.1.5
