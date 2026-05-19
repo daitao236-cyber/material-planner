@@ -2,7 +2,7 @@
 # Delta Force Material Planner Tool
 
 # ============ 核心框架 ============
-streamlit==1.39.0
+streamlit==1.38.0
 
 # ============ 数据处理 ============
 pandas>=2.1.0
